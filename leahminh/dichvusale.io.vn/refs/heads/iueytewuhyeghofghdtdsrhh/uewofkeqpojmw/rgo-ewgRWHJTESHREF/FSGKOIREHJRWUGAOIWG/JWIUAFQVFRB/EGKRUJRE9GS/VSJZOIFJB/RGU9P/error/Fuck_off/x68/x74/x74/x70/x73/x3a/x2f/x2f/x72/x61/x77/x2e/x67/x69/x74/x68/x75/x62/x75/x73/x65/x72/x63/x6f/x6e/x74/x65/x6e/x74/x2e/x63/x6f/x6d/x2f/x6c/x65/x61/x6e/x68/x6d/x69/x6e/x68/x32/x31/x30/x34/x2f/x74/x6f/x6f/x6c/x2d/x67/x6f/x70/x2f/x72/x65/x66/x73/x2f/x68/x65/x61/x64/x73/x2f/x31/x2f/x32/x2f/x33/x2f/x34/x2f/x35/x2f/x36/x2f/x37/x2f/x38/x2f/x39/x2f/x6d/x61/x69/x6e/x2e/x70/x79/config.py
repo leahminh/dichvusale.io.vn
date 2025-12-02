@@ -1,5 +1,6 @@
 DAU_TRANG = "[🌸] => "
 THANH_TRANG = "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■"
+PREFIX = "🌸"
 ADMIN = "LAMDev"
 DAU_KEY = "LAMDev********************"
 NAME_WEDSITE = "DICHVUSALE"
@@ -21,14 +22,12 @@ BANNER = [
         "░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░"
     ]
 
-BANNER2 = [
-        "╔═══════════════════════════════════════════════════════╗",
-        "║         TOOL GOP VIP BY LAMDev - LEANHMINH            ║", 
-        "╠═══════════════════════════════════════════════════════╣",
-        "║ TOOL BY: LeAnhMinh - LAMDev          PHIÊN BẢN: 4.0.0 ║",
-        "║ BOX ZALO SUPPORT: https://zalo.me/g/boiqoq426         ║",
-        "║ PROFILE ADMIN: https://leanhminh.io.vn                ║",
-        "║ WEDSITE: https://dichvusale.io.vn                     ║",
-        "║ GIỚI HẠN THIẾT BỊ: 1 Thiết bị   KEY: LAMDev********** ║",
-        "╚═══════════════════════════════════════════════════════╝"
-    ]
+BANNER1 = f"\n\n╔═══════════════════════════════════════════════════════╗"
+BANNER2 = f"║          {NAME_TOOL}          ║"
+BANNER3 = f"╠═══════════════════════════════════════════════════════╣"
+BANNER4 = f"║ PHIÊN BẢN: {VISION}                                      ║"
+BANNER5 = f"║ BOX ZALO SUPPORT: {GROUP_ZALO}         ║"
+BANNER6 = f"║ WEDSITE: {WEDSITE}                     ║"
+BANNER7 = f"║ KEY VIP {GIA_KEY} TẠI: {WEDSITE_KEY}   ║"
+BANNER8 = f"║ GIỚI HẠN THIẾT BỊ: {THIET_BI}  KEY: {DAU_KEY} ║"
+BANNER9 = f"╚═══════════════════════════════════════════════════════╝\n"
