@@ -26,7 +26,7 @@ BANNER2 = [
         "╔═══════════════════════════════════════════════════════╗",
         "║         TOOL GOP VIP BY LAMDev - LEANHMINH            ║", 
         "╠═══════════════════════════════════════════════════════╣",
-        "║ TOOL BY: LeAnhMinh - LAMDev          PHIÊN BẢN: 4.0.0 ║",
+        "║ TOOL BY: LeAnhMinh - LAMDev          PHIÊN BẢN: {VISION} ║",
         "║ BOX ZALO SUPPORT: https://zalo.me/g/boiqoq426         ║",
         "║ PROFILE ADMIN: https://leanhminh.io.vn                ║",
         "║ WEDSITE: https://dichvusale.io.vn                     ║",
