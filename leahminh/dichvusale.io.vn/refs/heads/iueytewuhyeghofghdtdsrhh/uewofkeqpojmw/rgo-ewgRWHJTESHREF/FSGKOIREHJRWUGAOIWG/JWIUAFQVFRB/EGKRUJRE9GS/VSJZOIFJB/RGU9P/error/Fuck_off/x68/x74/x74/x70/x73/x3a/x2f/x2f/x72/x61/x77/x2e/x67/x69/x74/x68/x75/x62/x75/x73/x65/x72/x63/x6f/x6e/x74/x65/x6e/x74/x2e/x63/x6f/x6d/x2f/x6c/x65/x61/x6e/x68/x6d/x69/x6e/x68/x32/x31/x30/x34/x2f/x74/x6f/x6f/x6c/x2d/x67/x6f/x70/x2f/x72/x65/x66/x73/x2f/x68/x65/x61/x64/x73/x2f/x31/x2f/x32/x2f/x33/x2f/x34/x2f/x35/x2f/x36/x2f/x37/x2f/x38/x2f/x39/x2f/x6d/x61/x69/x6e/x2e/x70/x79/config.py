@@ -23,13 +23,13 @@ BANNER = [
     ]
 
 BANNER2 = [
-        "╔═══════════════════════════════════════════════════════╗",
-        "║         TOOL GOP VIP BY LAMDev - LEANHMINH            ║", 
-        "╠═══════════════════════════════════════════════════════╣",
-        "║ TOOL BY: LeAnhMinh - LAMDev          PHIÊN BẢN: {VISION} ║",
-        "║ BOX ZALO SUPPORT: https://zalo.me/g/boiqoq426         ║",
-        "║ PROFILE ADMIN: https://leanhminh.io.vn                ║",
-        "║ WEDSITE: https://dichvusale.io.vn                     ║",
-        "║ GIỚI HẠN THIẾT BỊ: 1 Thiết bị   KEY: LAMDev********** ║",
-        "╚═══════════════════════════════════════════════════════╝"
+        f"╔═══════════════════════════════════════════════════════╗",
+        f"║         TOOL GOP VIP BY LAMDev - LEANHMINH            ║", 
+        f"╠═══════════════════════════════════════════════════════╣",
+        f"║ TOOL BY: LeAnhMinh - LAMDev          PHIÊN BẢN: {VISION} ║",
+        f"║ BOX ZALO SUPPORT: https://zalo.me/g/boiqoq426         ║",
+        f"║ PROFILE ADMIN: https://leanhminh.io.vn                ║",
+        f"║ WEDSITE: https://dichvusale.io.vn                     ║",
+        f"║ GIỚI HẠN THIẾT BỊ: 1 Thiết bị   KEY: LAMDev********** ║",
+        f"╚═══════════════════════════════════════════════════════╝"
     ]
