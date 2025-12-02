@@ -9,6 +9,7 @@ GROUP_ZALO = "https://zalo.me/g/boiqoq426"
 THIET_BI = "1" 
 VISION = "1.0.0"
 GIA_KEY = "500 đ/day"
+NAME_TOOL = f"TOOL GOP VIP BY {ADMIN} - {NAME_WEDSITE}"
 BANNER = [
         "░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░",
         "░░██╗░░░░░░█████╗░███╗░░░███╗██████╗░░░░░░░░░░░░░░░░░░░░░",
@@ -21,7 +22,7 @@ BANNER = [
     ]
 
 BANNER1 = f"\n\n╔═══════════════════════════════════════════════════════╗"
-BANNER2 = f"║          TOOL GOP VIP BY {ADMIN} - {NAME_WEDSITE}          ║"
+BANNER2 = f"║          {NAME_TOOL}          ║"
 BANNER3 = f"╠═══════════════════════════════════════════════════════╣"
 BANNER4 = f"║ PHIÊN BẢN: {VISION}                                      ║"
 BANNER5 = f"║ BOX ZALO SUPPORT: {GROUP_ZALO}         ║"
