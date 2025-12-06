@@ -1,6 +1,6 @@
-DAU_TRANG = "[🌸] => "
+DAU_TRANG = "[🌸] "
 THANH_TRANG = "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■"
-PREFIX = "🌸"
+PREFIX = "LAMLAM"
 ADMIN = "LAMDev"
 DAU_KEY = "LAMDev********************"
 NAME_WEDSITE = "DICHVUSALE"
@@ -33,3 +33,11 @@ BANNER2 = [
         f"║ GIỚI HẠN THIẾT BỊ: 1 Thiết bị   KEY: LAMDev********** ║",
         f"╚═══════════════════════════════════════════════════════╝"
     ]
+LINK_KEY = {
+    "bbmkts": "BBMKTS.COM",
+    "laymangay": "LAYMANGAY.COM", 
+    "link2m": "LINK2M.COM",
+    "link4m": "LINK4M.COM",
+    "yeumoney": "YEUMONEY.COM",
+    "linkngon": "LINKNGON.COM"
+}
