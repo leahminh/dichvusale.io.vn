@@ -1,6 +1,6 @@
 DAU_TRANG = "[🌸] "
 THANH_TRANG = "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■"
-PREFIX = "LAMLAM"
+PREFIX = "LAM"
 ADMIN = "LAMDev"
 DAU_KEY = "LAMDev********************"
 NAME_WEDSITE = "DICHVUSALE"
