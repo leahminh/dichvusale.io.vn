@@ -5,11 +5,12 @@ ADMIN = "LAMDev"
 DAU_KEY = "LAMDev********************"
 NAME_WEDSITE = "DICHVUSALE"
 WEDSITE = "https://dichvusale.io.vn"
+WEDSITE_ADMIN = "https://leanhminh.io.vn"
 WEDSITE_CHECK_KEY = "https://code.dichvusale.io.vn"
 WEDSITE_KEY = "https://key.dichvusale.io.vn"
 GROUP_ZALO = "https://zalo.me/g/boiqoq426"
 THIET_BI = "1" 
-VISION = "1.0.0"
+VISION = "01.00.00"
 GIA_KEY = "500 đ/day"
 NAME_TOOL = f"TOOL GOP VIP BY {ADMIN} - {NAME_WEDSITE}"
 BANNER = [
@@ -25,13 +26,13 @@ BANNER = [
 
 BANNER2 = [
         f"╔═══════════════════════════════════════════════════════╗",
-        f"║         TOOL GOP VIP BY LAMDev - LEANHMINH            ║", 
+        f"║         TOOL GOP VIP BY {ADMIN} - {NAME_WEDSITE}          ║", 
         f"╠═══════════════════════════════════════════════════════╣",
-        f"║ TOOL BY: LeAnhMinh - LAMDev          PHIÊN BẢN: {VISION} ║",
-        f"║ BOX ZALO SUPPORT: https://zalo.me/g/boiqoq426         ║",
-        f"║ PROFILE ADMIN: https://leanhminh.io.vn                ║",
-        f"║ WEDSITE: https://dichvusale.io.vn                     ║",
-        f"║ GIỚI HẠN THIẾT BỊ: 1 Thiết bị   KEY: LAMDev********** ║",
+        f"║ GIÁ KEY VIP: {GIA_KEY}            PHIÊN BẢN: {VISION} ║",
+        f"║ BOX ZALO SUPPORT: {GROUP_ZALO}         ║",
+        f"║ PROFILE ADMIN: {WEDSITE_ADMIN}                ║",
+        f"║ WEDSITE MMO: {WEDSITE}                 ║",
+        f"║ GIỚI HẠN THIẾT BỊ: {THIET_BI} Thiết bị   KEY: {DAU_KEY} ║",
         f"╚═══════════════════════════════════════════════════════╝"
     ]
 LINK_KEY = {
