@@ -26,7 +26,7 @@ BANNER = [
 
 BANNER2 = [
         f"╔═══════════════════════════════════════════════════════╗",
-        f"║         TOOL GOP VIP BY {ADMIN} - {NAME_WEDSITE}          ║", 
+        f"║    TỔNG HỢP TOOL TIỆN ÍCH & MMO VIP BY {NAME_WEDSITE}     ║", 
         f"╠═══════════════════════════════════════════════════════╣",
         f"║ GIÁ KEY VIP: {GIA_KEY}            PHIÊN BẢN: {VISION} ║",
         f"║ BOX ZALO SUPPORT: {GROUP_ZALO}         ║",
@@ -41,5 +41,10 @@ LINK_KEY = {
     "link2m": "LINK2M.COM",
     "link4m": "LINK4M.COM",
     "yeumoney": "YEUMONEY.COM",
-    "linkngon": "LINKNGON.COM"
+    "linkngon": "LINKNGON.COM",
+    "layma": "LAYMA.NET",
+    "fullink": "FULLINK.IO",
+    "linktot": "LINKTOT.NET",
+    "link4sub": "LINK4SUB.COM"
+    
 }
