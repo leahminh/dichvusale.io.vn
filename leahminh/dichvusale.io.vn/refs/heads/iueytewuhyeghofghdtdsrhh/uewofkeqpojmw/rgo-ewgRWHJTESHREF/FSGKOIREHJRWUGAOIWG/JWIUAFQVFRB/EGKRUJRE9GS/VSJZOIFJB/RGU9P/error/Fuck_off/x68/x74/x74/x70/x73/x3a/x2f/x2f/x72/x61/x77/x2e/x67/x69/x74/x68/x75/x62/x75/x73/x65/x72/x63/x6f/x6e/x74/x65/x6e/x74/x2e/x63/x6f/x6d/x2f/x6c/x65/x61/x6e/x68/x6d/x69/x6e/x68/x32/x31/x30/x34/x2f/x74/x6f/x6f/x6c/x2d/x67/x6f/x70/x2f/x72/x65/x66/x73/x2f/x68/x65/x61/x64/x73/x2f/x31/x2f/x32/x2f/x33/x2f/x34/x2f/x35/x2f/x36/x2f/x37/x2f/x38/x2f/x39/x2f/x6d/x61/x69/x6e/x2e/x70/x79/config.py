@@ -1,3 +1,24 @@
+__config_dichvusale__ = [
+    "DAU_TRANG",
+    "THANH_TRANG",
+    "PREFIX",
+    "ADMIN",
+    "DAU_KEY",
+    "NAME_WEDSITE",
+    "WEDSITE",
+    "WEDSITE_ADMIN",
+    "WEDSITE_CHECK_KEY",
+    "WEDSITE_KEY",
+    "GROUP_ZALO",
+    "THIET_BI",
+    "VISION",
+    "GIA_KEY",
+    "NAME_TOOL",
+    "BANNER",
+    "BANNER2",
+    "LINK_KEY",
+]
+
 DAU_TRANG = "[🌸] "
 THANH_TRANG = "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■"
 PREFIX = "LAM"
