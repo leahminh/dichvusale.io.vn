@@ -32,7 +32,7 @@ BANNER2 = [
         f"║ BOX ZALO SUPPORT: {GROUP_ZALO}         ║",
         f"║ PROFILE ADMIN: {WEDSITE_ADMIN}                ║",
         f"║ WEDSITE MMO: {WEDSITE}                 ║",
-        f"║ GIỚI HẠN THIẾT BỊ: {THIET_BI} Thiết bị   KEY: {DAU_KEY} ║",
+        f"║ GIỚI HẠN: {THIET_BI} Thiết bị            KEY: {DAU_KEY} ║",
         f"╚═══════════════════════════════════════════════════════╝"
     ]
 LINK_KEY = {
