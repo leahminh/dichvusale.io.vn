@@ -30,7 +30,7 @@ WEDSITE_ADMIN = "https://leanhminh.io.vn"
 WEDSITE_CHECK_KEY = "https://code.dichvusale.io.vn"
 WEDSITE_KEY = "https://key.dichvusale.io.vn"
 GROUP_ZALO = "https://zalo.me/g/boiqoq426"
-THIET_BI = "1" 
+THIET_BI = "001" 
 VISION = "01.00.00"
 GIA_KEY = "500 đ/day"
 NAME_TOOL = f"TOOL GOP VIP BY {ADMIN} - {NAME_WEDSITE}"
@@ -53,7 +53,7 @@ BANNER2 = [
         f"║ BOX ZALO SUPPORT: {GROUP_ZALO}         ║",
         f"║ PROFILE ADMIN: {WEDSITE_ADMIN}                ║",
         f"║ WEDSITE MMO: {WEDSITE}                 ║",
-        f"║ GIỚI HẠN: {THIET_BI} Thiết bị        KEY: {DAU_KEY} ║",
+        f"║ GIỚI HẠN: {THIET_BI} Thiết bị      KEY: {DAU_KEY} ║",
         f"╚═══════════════════════════════════════════════════════╝"
     ]
 LINK_KEY = {
